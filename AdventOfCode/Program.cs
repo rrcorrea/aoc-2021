@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using AdventOfCode;
+﻿using AdventOfCode;
 
 Console.WriteLine("Advent of Code");
 
@@ -21,4 +20,5 @@ Console.WriteLine("Advent of Code");
 
 Console.WriteLine("\n***Puzzle 4");
 var puzzle4 = new Puzzle4();
+//puzzle4.Run1();
 puzzle4.Run2();
