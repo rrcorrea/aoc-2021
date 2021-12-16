@@ -675,5 +675,4 @@
             Console.WriteLine($"Total Score: {scores.Last()}");
         }
     }
-
 }
